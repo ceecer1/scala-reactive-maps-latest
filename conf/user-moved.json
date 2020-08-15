@@ -1,0 +1,10 @@
+{
+  "event": "user-moved",
+  "position": {
+    "type": "Point",
+    "coordinates": [
+      151.2002,
+      -33.8591
+    ]
+  }
+}
